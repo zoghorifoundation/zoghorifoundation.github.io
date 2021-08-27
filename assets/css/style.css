@@ -1,10 +1,3 @@
-/**
-* Template Name: Mamba - v3.0.1
-* Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -31,8 +24,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Back to top button
 --------------------------------------------------------------*/
 .back-to-top {
-  position: fixed;
-  display: none;
+  /*position: fixed;*/
+  float:left;
+  /*display: none;*/
   width: 40px;
   height: 40px;
   border-radius: 3px;
@@ -40,7 +34,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   bottom: 15px;
   background: #428bca;
   color: #fff;
-  transition: display 0.5s ease-in-out;
+  /*transition: display 0.5s ease-in-out;*/
   z-index: 99999;
 }
 
