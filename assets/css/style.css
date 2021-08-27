@@ -42,6 +42,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   position: absolute;
   top: 8px;
   left: 8px;
+  float:left;
 }
 
 .back-to-top:hover {
