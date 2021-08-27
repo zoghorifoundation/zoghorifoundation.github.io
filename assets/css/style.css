@@ -24,9 +24,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Back to top button
 --------------------------------------------------------------*/
 .back-to-top {
-  /*position: fixed;*/
-  float:left;
-  /*display: none;*/
+  position: fixed;
+  display: none;
   width: 40px;
   height: 40px;
   border-radius: 3px;
@@ -34,7 +33,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   bottom: 15px;
   background: #428bca;
   color: #fff;
-  /*transition: display 0.5s ease-in-out;*/
+  transition: display 0.5s ease-in-out;
   z-index: 99999;
 }
 
