@@ -1,0 +1,1 @@
+# Zoghori Foundation is a non-profit implementing foundation set up in 2019 as the social arm of Zoghori Sacco Limited with the aim of transforming the lives and livelihoods of our people socially and economically by availing modern, inclusive opportunities that improve and help build and strengthen their prosperity.
