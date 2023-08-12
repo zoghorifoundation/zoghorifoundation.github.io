@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #fff;
+  background: #0e0e80;
   padding: 10px 0;
   border-bottom: 1px solid #eee;
   font-size: 14px;
@@ -63,16 +63,16 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #topbar .contact-info a {
   line-height: 1;
-  color: #444;
+  color: #d80d0d;
   transition: 0.3s;
 }
 
 #topbar .contact-info a:hover {
-  color: #428bca;
+  color: #021321;
 }
 
 #topbar .contact-info i {
-  color: #428bca;
+  color: #01080d;
   padding: 4px;
 }
 
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #topbar .social-links a {
-  color: #5c768d;
+  color: #ea3b06;
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #topbar .social-links a:hover {
-  color: #428bca;
+  color: #f5a709;
 }
 
 /*--------------------------------------------------------------
