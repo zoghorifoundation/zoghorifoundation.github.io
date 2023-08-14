@@ -101,14 +101,14 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: all 0.5s;
   transition: all 0.5s;
   padding: 10px 0;
-  background: #fff;
+  background:#f89a02;
   z-index: 997;
 }
 
 #header.header-scrolled {
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
 }
-
+/*
 #header .logo h1 {
   font-size: 28px;
   margin: 0;
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #header .logo h1 a, #header .logo h1 a:hover {
   color: #1c5c93;
   text-decoration: none;
-}
+}*/
 
 #header .logo img {
   padding: 0;
@@ -149,10 +149,10 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #5c768d;
+  color: #000000;
   padding: 12px 15px;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 18px;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -191,7 +191,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #103453;
+  color: #000000;
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
@@ -1172,25 +1172,6 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Frequently Asked Questions
---------------------------------------------------------------*/
-.faq {
-  padding-bottom: 30px;
-}
-
-.faq .faq-item {
-  margin-bottom: 40px;
-}
-
-.faq .faq-item h4 {
-  font-size: 20px;
-  line-height: 28px;
-  font-weight: 600;
-  margin-bottom: 15px;
-  color: #1f3548;
-}
-
-/*--------------------------------------------------------------
 # Contact Us
 --------------------------------------------------------------*/
 .contact .info-box {
@@ -1211,6 +1192,7 @@ section {
 }
 
 .contact .info-box h3 {
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 20px;
   color: #666;
   font-weight: 700;
