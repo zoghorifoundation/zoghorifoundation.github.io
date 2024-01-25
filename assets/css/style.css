@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #0e0e80;
+  background: #fff;
   padding: 10px 0;
   border-bottom: 1px solid #eee;
   font-size: 14px;
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: all 0.5s;
   transition: all 0.5s;
   padding: 10px 0;
-  background:#f89a02;
+  background:yellow;
   z-index: 997;
 }
 
